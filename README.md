@@ -8,4 +8,4 @@
 
 [![Kakise's github stats](https://github-readme-stats.vercel.app/api?username=Kakise&theme=default&show_icons=true&count_private=true&include_all_commits=true&custom_title=Kakise%20statistics)](https://github.com/Kakise)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakise&layout=compact&theme=default&hide=cmake,makefile)](https://github.com/Kakise)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakise&theme=default&hide=cmake,makefile)](https://github.com/Kakise)
