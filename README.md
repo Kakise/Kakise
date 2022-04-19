@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Kakise
 ---
 
-- 🔭 I’m currently working on REST APIs and CRM developpment
+- 🔭 I’m currently working on REST APIs and integrated systems
 - 🌱 I’m currently learning system programming in C++
 - 💬 Ask me about mathematical calculus in C++
-- 📫 How to reach me: [on my website](https://sr-sam.tech/contact)
+- 📫 How to reach me: [on twitter!](https://twitter.com/STaaissat)
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
