@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Kakise
 ---
 
-- 🔭 I’m currently working on REST APIs and integrated systems
-- 🌱 I’m currently learning system programming in C++
+- 🔭 I’m currently working on data engineering and generative AI
+- 🌱 I’m currently learning Rust
 - 💬 Ask me about mathematical calculus in C++
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
